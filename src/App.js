@@ -2,6 +2,7 @@ import "./App.css";
 import About from "./component/About";
 import Header from "./component/Header";
 import Service from "./component/Service";
+import TermsAndCondition from "./component/TermsAndCondition";
 import WhyUs from "./component/WhyUs";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <About />
       <Service />
       <WhyUs />
+      <TermsAndCondition />
     </div>
   );
 }

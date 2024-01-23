@@ -111,3 +111,90 @@ export const whyChooseUsData = [
       "We respect the importance of client&#39;s confidentiality. All information and documents shared with us will be treated with the utmost confidentiality and will not be disclosed to any third parties without your consent.",
   },
 ];
+
+export const termsAndCondition = [
+  {
+    id: "01",
+    title: "Client(s)' Responsibilities:",
+    description: [
+      "Clients must provide accurate and complete information regarding their requirements for the requested service(s).",
+
+      "Clients are responsible for ensuring that the content provided to the Service(s) Provider is original, does not infringe upon any third-party rights, and complies with all applicable laws and regulations.",
+
+      "Clients are responsible for reviewing and proofreading the final deliverables provided by the Service(s) Provider and notifying any necessary revisions or corrections within a reasonable timeframe.",
+    ],
+  },
+
+  {
+    id: "02",
+    title: "Service(s)' Fees and Payment:",
+    description: [
+      "The fees for the service(s) provided by the Service(s) Provider will be discussed and agreed upon between the Service(s) Provider and the Client prior to the commencement of any work.",
+
+      "Payment for the service(s) rendered by the Service(s) Provider shall be made in the manner and within the timeframe agreed upon by both parties.",
+
+      "In the event of additional work or revisions requested by the Client beyond the scope of the original agreement, additional fees may be applicable.",
+    ],
+  },
+  {
+    id: "03",
+    title: "Intellectual Property Rights:",
+    description: [
+      "The Service(s) Provider retains the intellectual property rights to any original work created as part of the service(s), unless otherwise agreed upon in writing. And, upon full payment of the service(s) fees, the Client is granted a non-exclusive, non-transferable license to use the deliverables for their intended purpose.",
+    ],
+  },
+  {
+    id: "04",
+    title: "Confidentiality:",
+    description: [
+      "The Service(s) Provider agrees to treat all information provided by the Client(s) as confidential and will not disclose it to any third party, except with the express permission of the Client(s) or as required by law.",
+
+      "The Client(s) agrees to provide only information that is necessary for the provision of the services and to inform the Service(s) Provider, if any confidential or sensitive information is being shared.",
+    ],
+  },
+  {
+    id: "05",
+    title: "Limitation of Liability:",
+    description: [
+      "The Service(s) Provider shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to the service(s) provided, even if advised of the possibility of such damages.",
+
+      "The Client(s) agrees to indemnify and hold the Service(s) Provider harmless from any claims, losses, or damages arising out of or in connection with the use of the service(s).",
+    ],
+  },
+  {
+    id: "06",
+    title: "Termination:",
+    description: [
+      "Either party may terminate the agreement upon notice to the other party. In the event of termination, the Client(s) shall pay for any service(s) rendered up to the termination date.",
+    ],
+  },
+  {
+    id: "07",
+    title: "Charges:",
+    description: [
+      "The Service(s) Provider have a complete right to revise the fees and charges as to service(s).",
+    ],
+  },
+
+  {
+    id: "08",
+    title: "Severability:",
+    description: [
+      "If any of the Terms and Conditions remains unenforceable under any circumstances as a whole, the other condition will still be remaining unaffected.",
+    ],
+  },
+  {
+    id: "09",
+    title: "Amendments:",
+    description: [
+      "If there is need to change the Terms and Conditions of Service(s), Service(s) Provider have the right to do so without issuing a prior notice to anyone. Under certain circumstances, the new set of protocols will supersede the previous one.",
+    ],
+  },
+  {
+    id: "10",
+    title: "Entire Agreement:",
+    description: [
+      "The latest agreement made between the Client(s) and Service(s) Provider would completely supersede the previous one made.",
+    ],
+  },
+];
