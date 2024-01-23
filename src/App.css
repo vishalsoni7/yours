@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "Alegreya", serif;
 }
 
 body {
@@ -143,4 +144,26 @@ body {
 
 .terms ol li {
   color: crimson;
+}
+
+footer {
+  text-align: left;
+  color: rgb(83, 83, 83);
+}
+
+footer h3 {
+  color: whitesmoke;
+}
+
+footer li {
+  list-style: none;
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+footer li:hover {
+  transition: transform 0.3s;
+  color: rgba(255, 223, 0, 1);
 }

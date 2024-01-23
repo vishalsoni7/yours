@@ -1,3 +1,11 @@
+import { IoIosCall } from "react-icons/io";
+import { IoIosMail } from "react-icons/io";
+import { MdWatchLater } from "react-icons/md";
+
+import { FaLinkedin } from "react-icons/fa";
+import { FaTelegram } from "react-icons/fa";
+import { FaWhatsappSquare } from "react-icons/fa";
+
 export const serviceData = [
   {
     id: "01",
@@ -196,5 +204,29 @@ export const termsAndCondition = [
     description: [
       "The latest agreement made between the Client(s) and Service(s) Provider would completely supersede the previous one made.",
     ],
+  },
+];
+
+export const footerData = [
+  {
+    id: "01",
+    icon: <IoIosCall />,
+    content: "+91-9468884241",
+  },
+
+  {
+    id: "02",
+    icon: <IoIosMail />,
+    content: "yourslegalsamartian@gmail.com",
+  },
+
+  {
+    id: "03",
+    icon: <MdWatchLater />,
+    content: "Monday - Saturday: 9AM to 9PM; Sunday - 10AM to 4PM",
+  },
+  {
+    id: "04",
+    icon: [<FaLinkedin />, <FaTelegram />, <FaWhatsappSquare />],
   },
 ];

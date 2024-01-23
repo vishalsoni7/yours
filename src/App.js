@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./component/About";
+import Footer from "./component/Footer";
 import Header from "./component/Header";
 import Service from "./component/Service";
 import TermsAndCondition from "./component/TermsAndCondition";
@@ -13,6 +14,7 @@ function App() {
       <Service />
       <WhyUs />
       <TermsAndCondition />
+      <Footer />
     </div>
   );
 }
