@@ -21,8 +21,8 @@ function About() {
         <p> Your one-stop destination for comprehensive Legal Services. </p>
         {/* Detailed description */}
         <p>
-          With over 4+ years of hands-on experience, <br /> We have had the
-          privilege of assisting 1400+ students, <br />
+          With over 5+ years of hands-on experience, <br /> We have had the
+          privilege of assisting 2600+ students, <br />
           academicians, and professionals from the law domain around <br />
           the whole of India. We pride ourselves on delivering high-quality work
           and customised solutions that meet the unique needs of each of our
