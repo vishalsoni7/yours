@@ -23,8 +23,10 @@ function TermsAndCondition() {
         {termsAndCondition?.map((item) => (
           <div className="list-div" key={item?.id}>
             {/* Ordered list with the title */}
-            <ol>
-              <li> {item?.title}</li>
+            <ol style={{ listStyle: "none" }}>
+              <li>
+                {item.id} {item?.title}
+              </li>
             </ol>
 
             {/* Unordered list with descriptions */}

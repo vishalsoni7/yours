@@ -21,7 +21,7 @@ function Header() {
         <div className="social-icon">
           {/* LinkedIn icon with link */}
           <a
-            href="https://www.linkedin.com/in/ayush-puri-0666a727a/"
+            href="https://www.linkedin.com/in/ayush-patriya-0666a727a/"
             target="_blank"
             rel="noopener noreferrer"
           >
